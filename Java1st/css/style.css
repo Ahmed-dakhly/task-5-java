@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list  {
+     list-style: none;
+     display: flex;
+     margin-top: 80px; 
+}
+.l1{ 
+background-image: url(../Images/apple-iphone-14-plus-128gb-azul.jpg);
+background-repeat: no-repeat;
+width: 300px;
+height: 300px;
+text-align: center;
+}
+.l2{background-image: url(../Images/G03.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+text-align: center; }
+.l3{background-image: url(../Images/pms_1655970220.12769604.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+text-align: center;}
+.l4{ background-image: url(../Images/opp31320224.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+text-align: center;}
+#addToCart{ 
+    border-radius: 10px;
+   margin-left: 50%;
+}
+#content{font-size: 18px;}
